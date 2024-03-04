@@ -1,0 +1,3 @@
+This was a super fun and challenging project for me. As my first ever website build I learnt alot about basic HTML structuring coupled with CSS styling.  Alongside this, I added some fun javascript functions to bring the wesbite to life. 
+I definitely got too carried away trying to get a funky background  for the webpage, which I created in blender,  to play in a perfect loop. The background ended up being quite distracting for users to read the actual content of the website. 
+Overall, I am really happy with how the website came out. As I continue to progress my skills I will start building a V2 portfoloio page. Until then, I hope you enjoy this one. Cheers, Ben :).
