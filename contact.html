@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mock Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="intro">
+        <h1 class="logo-header">
+            <span class="logo">Say</span><span class="logo">Hi</span>
+        </h1>
+    </div>
+    <video id="myVid" autoplay loop muted class="back-video">
+        <source src="Images/dotbackgroundFinal.mp4" type="video/mp4">
+    </video>
+    <nav>
+        <img>
+        <ul>
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="projects.html">PROJECTS</a></li>
+            <li><a href="workExerience.html">WORK EXPERIENCE</a></li>
+        </ul>
+    </nav>
+    <div class="hey">
+        <h2>CONTACT ME</h2>
+        <div class="form-container">
+        <form id="form" action="https://api.web3forms.com/submit" method="POST">
+            <input type="hidden" name="access_key" value="45e36467-7f60-4324-8f74-849db74f8b5a">
+    <div class="input_container">
+       <label for="email">Email</label>
+       <input type="email" id="email" name="email" required> 
+    </div>
+    <div class="input_container">
+        <label for="message">Send me a message</label>
+        <textarea name="message" id="message" rows="4" required></textarea>
+    </div>
+    <button type="submit">Submit</button>
+</div>
+    </form>
+    </div>
+</body>
+<script type="text/javascript" src="script.js"></script>
+</html>
